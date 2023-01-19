@@ -1,2 +1,3 @@
 # Data-Analytics-Assignment
-Uploading data analytics assignment
+ Data analytics assignment training
+ 1.Indroduction to data
